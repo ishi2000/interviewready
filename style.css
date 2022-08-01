@@ -1,0 +1,24 @@
+html, body {
+    background-color:white
+}
+
+
+h2 {
+    font-family: arial;
+    text-align: center;
+    color: blue
+}
+
+body {
+    text-align: center;
+    font-family: arial;
+    font-size: 1em;
+}
+
+.tag{
+background-color: pink;
+}
+img {
+	width: 200px;
+    align-self: left;
+}
